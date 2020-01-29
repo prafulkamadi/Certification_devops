@@ -54,13 +54,6 @@
   </developers>
 
   <dependencies>
-	  <build>
-             <plugins>
-	        <plugin>
-		   <groupId>org.springframework.boot</groupId>
-		   <artifactId>spring-boot-maven-plugin</artifactId>	
-                </plugin>
-	     </plugins>                                                                        </build>											  <dependency>
       <groupId>com.google.code.findbugs</groupId>
       <artifactId>annotations</artifactId>
       <version>3.0.1</version>
